@@ -10,6 +10,9 @@
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2025 | CVPR | Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment | [Paper](https://ieeexplore.ieee.org/document/11093978) | [GitHub](https://github.com/FBehrad/Charm) |
+| 2024 | TMM | Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/abstract/document/10812779) | [GitHub](https://github.com/Hangwei-Chen/HKD-IAA) |
+| 2024 | TPAMI | Multi-Modality Multi-Attribute ContrastivePre-Training for Image Aesthetics Computing | [Paper](https://ieeexplore.ieee.org/document/10746353) | [GitHub](https://github.com/yipoh/AesNet) |
+| 2024 | ACM MM | BMI-Net: A Brain-inspired Multimodal Interaction Network for Image Aesthetic Assessment | [Paper](https://dl.acm.org/doi/10.1145/3581783.3611996) | [无] |
 
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
@@ -21,6 +24,7 @@
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2025 | ACM MM | Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755699) | [GitHub](https://github.com/zht8506/Gamma) |
+| 2023 | TVSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
 
 ## 📚 常用数据集 & 综述
 | Year | Conf/Journal | Paper Title | Paper | Code |
