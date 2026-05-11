@@ -17,6 +17,7 @@
 ## 🧩 通用图像评估（含质量+美学）
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
+| 2025 | ACM MM | Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755699) | [GitHub](https://github.com/zht8506/Gamma) |
 
 ## 📚 常用数据集 & 综述
 | Year | Conf/Journal | Paper Title | Paper | Code |
