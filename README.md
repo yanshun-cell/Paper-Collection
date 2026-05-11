@@ -13,6 +13,9 @@
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
+| 2024 | ACM MM | Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681175) | [GitHub](https://github.com/GitHub-Ju/AMHP) |
+|------|--------------|-------------|-------|------|
+| 2025 | IEEE TMM | AesPrompt: Zero-shot Image Aesthetics Assessment with Multi-Granularity Aesthetic Prompt Learning | [Paper](https://ieeexplore.ieee.org/document/11249440) | [GitHub](https://github.com/sxfly99/AesPrompt) |
 
 ## 🧩 通用图像评估（含质量+美学）
 | Year | Conf/Journal | Paper Title | Paper | Code |
