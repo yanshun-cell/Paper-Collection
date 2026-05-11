@@ -4,6 +4,7 @@
 
 ## 🔗 多图联合学习美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
+
 | 2024 | ACM TOMM | Improving Image Aesthetic Assessment via Multiple Image Joint Learning | [Paper]([论文链接](https://dl.acm.org/doi/10.1145/3687128)) | [GitHub][(代码链接)](https://github.com/flyingbird93/MILNet) |
 
 ## 🤖 预训练 / 多模态美学评估
