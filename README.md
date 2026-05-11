@@ -1,24 +1,18 @@
-# 论文合集
+# Image Aesthetic Assessment - Paper Collection
+图像美学评估 论文合集
 
-## 🔥 场景重建
-| Year | J/C | Title | Paper | Code |
-|------|-----|-------|-------|------|
-| 2024 | CVPR | 你的论文标题 | [Paper](论文链接) | [GitHub](代码链接) |
-| 2025 | ACM MM | xxx | [Paper](xxx) | ---- |
 
-## 🧠 场景理解
-### (i) 基于优化方法
-| Year | J/C | Title | Paper | Code |
-|------|-----|-------|-------|------|
+## 🔗 多图联合学习美学评估
+| Year | Conf/Journal | Paper Title | Paper | Code |
 
-### (ii) 无优化方法
-| Year | J/C | Title | Paper | Code |
+## 🤖 预训练 / 多模态美学评估
+| Year | Conf/Journal | Paper Title | Paper | Code |
 
-## 🏥 医学图像
-| Year | J/C | Title | Paper | Code |
+## 💡 提示学习 Prompt 美学评估
+| Year | Conf/Journal | Paper Title | Paper | Code |
 
-## 🎯 目标检测
-| Year | J/C | Title | Paper | Code |
+## 🧩 通用图像评估（含质量+美学）
+| Year | Conf/Journal | Paper Title | Paper | Code |
 
-## ☁️ 点云处理
-| Year | J/C | Title | Paper | Code |
+## 📚 常用数据集 & 综述
+| Year | Conf/Journal | Paper Title | Paper | Code |
