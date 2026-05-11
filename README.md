@@ -9,6 +9,7 @@
 ## 🤖 预训练 / 多模态美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
+| 2025 | cvpr | Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment | [Paper](https://ieeexplore.ieee.org/document/11093978) | [GitHub](https://github.com/FBehrad/Charm) |
 
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
