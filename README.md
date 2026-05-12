@@ -18,6 +18,7 @@
 | 2023 | ACM MM | BMI-Net: A Brain-inspired Multimodal Interaction Network for Image Aesthetic Assessment | [Paper](https://dl.acm.org/doi/10.1145/3581783.3611996) | [无] |
 | 2024 | TPAMI | Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing | [Paper](https://ieeexplore.ieee.org/document/10746353) | [GitHub](https://github.com/yipoh/AesNet) |
 | 2023 | TCSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
+| 2023 | ICME | Attribute-assisted Multimodal Network for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10220007) | [无] |
 
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
