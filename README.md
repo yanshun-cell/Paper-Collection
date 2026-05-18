@@ -19,12 +19,14 @@
 | 2024 | TPAMI | Multi-Modality Multi-Attribute Contrastive Pre-Training for Image Aesthetics Computing | [Paper](https://ieeexplore.ieee.org/document/10746353) | [GitHub](https://github.com/yipoh/AesNet) |
 | 2023 | TCSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
 | 2023 | ICME | Attribute-assisted Multimodal Network for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10220007) | [无] |
+| 2025 | ACM MM | CoFiVLA Synergistic coarse-fine vision-language alignment for image aesthetic assessment | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755089) | [GitHub](https://github.com/lifushengchn/CoFiVLA) |
 
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2024 | ACM MM | Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681175) | [GitHub](https://github.com/GitHub-Ju/AMHP) |
-| 2025 | IEEE TMM | AesPrompt: Zero-shot Image Aesthetics Assessment with Multi-Granularity Aesthetic Prompt Learning | [Paper](https://ieeexplore.ieee.org/document/11249440) | [GitHub](https://github.com/sxfly99/AesPrompt) |
+| 2025 | IEEE TMM | AesPrompt: Zero-shot Image Aesthetics Assessment with Multi-Granularity Aesthetic Prompt Learning | [Paper](https://ieeexplore.ieee.org/document/11249440) | [GitHub](
+https://github.com/lifushengchn/CoFiVLA) |
 
 ## 🧩 通用图像评估（含质量+美学）
 | Year | Conf/Journal | Paper Title | Paper | Code |
