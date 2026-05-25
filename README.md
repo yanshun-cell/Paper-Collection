@@ -33,6 +33,17 @@
 | 2025 | ACM MM | Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755699) | [GitHub](https://github.com/zht8506/Gamma) |
 | 2023 | TVSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
 
+## 🌟 长尾分布问题
+| Year | Conf/Journal | Paper Title | Paper | Code |
+|------|--------------|-------------|-------|------|
+| 2024 | ICML | ELTA AnEnhancer against Long-Tail for Aesthetics-oriented Models | [Paper](https://icml.cc/virtual/2024/poster/33539) | [GitHub](https://github.com/woshidandan/Long-Tail-image-aesthetics-and-quality-assessment) |
+| 2026 | IJCV | Rethinking-Long-Tail-for-Image-Aesthetics-Assessment | [Paper](https://github.com/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment/blob/main/IJCV2026%20-%20Rethinking%20Long-Tail%20for%20Image%20Aesthetics%20Assessment.pdf) | [GitHub](https://github.com/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment) |
+
+## 😈 大模型
+| Year | Conf/Journal | Paper Title | Paper | Code |
+|------|--------------|-------------|-------|------|
+| 2026 | AAAI | Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models | [Paper](https://chatpaper.com/paper/258519) | [GitHub](https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models) |
+
 ## 📚 常用数据集 & 综述
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
