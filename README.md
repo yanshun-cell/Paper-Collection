@@ -26,12 +26,14 @@
 |------|--------------|-------------|-------|------|
 | 2024 | ACM MM | Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment | [Paper](https://dl.acm.org/doi/10.1145/3664647.3681175) | [GitHub](https://github.com/GitHub-Ju/AMHP) |
 | 2025 | IEEE TMM | AesPrompt: Zero-shot Image Aesthetics Assessment with Multi-Granularity Aesthetic Prompt Learning | [Paper](https://ieeexplore.ieee.org/document/11249440) | [GitHub](https://github.com/lifushengchn/CoFiVLA) |
+| 2026 | IEEE TMM | Learning Artistic Image Aesthetics from Multi-level Text Prompts Generation | [Paper](https://ieeexplore.ieee.org/abstract/document/11523634) | [GitHub](https://github.com/cicixuxy/MTPG.) |
 
 ## 🧩 通用图像评估（含质量+美学）
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2025 | ACM MM | Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755699) | [GitHub](https://github.com/zht8506/Gamma) |
 | 2023 | TVSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
+| 2026 | AAAI | Fine-grained image quality assessment for perceptual image restoration | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37846) | [GitHub](https://sxfly99.github.io/FGResQ-Home/) |
 
 ## 🌟 长尾分布问题
 | Year | Conf/Journal | Paper Title | Paper | Code |
@@ -43,6 +45,11 @@
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2026 | AAAI | Regression Over Classification: Assessing Image Aesthetics via Multimodal Large Language Models | [Paper](https://chatpaper.com/paper/258519) | [GitHub](https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models) |
+
+## ✨ 细粒度
+| Year | Conf/Journal | Paper Title | Paper | Code |
+|------|--------------|-------------|-------|------|
+| 2026 | CVPR | Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks | [Paper](https://arxiv.org/abs/2603.03907) | [GitHub](https://yzc-ippl.github.io/FG-IAA/) |
 
 ## 📚 常用数据集 & 综述
 | Year | Conf/Journal | Paper Title | Paper | Code |
