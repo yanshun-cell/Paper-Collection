@@ -34,6 +34,8 @@
 | 2025 | ACM MM | Gamma: Toward Generic Image Assessment with Mixture of Assessment Experts | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755699) | [GitHub](https://github.com/zht8506/Gamma) |
 | 2023 | TVSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
 | 2026 | AAAI | Fine-grained image quality assessment for perceptual image restoration | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37846) | [GitHub](https://sxfly99.github.io/FGResQ-Home/) |
+| 2026 | IEEE TMM | Learning Artistic Image Aesthetics from Multi-level Text Prompts Generation | [Paper](https://ieeexplore.ieee.org/abstract/document/11523634) | [GitHub](https://github.com/cicixuxy/MTPG) |
+| 2025 | IEEE TIP | AI-generated image quality assessment based on task-specific prompt and multi-granularity similarity | [Paper](https://ieeexplore.ieee.org/abstract/document/11291162) | [无]|
 
 ## 🌟 长尾分布问题
 | Year | Conf/Journal | Paper Title | Paper | Code |
@@ -50,6 +52,11 @@
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
 | 2026 | CVPR | Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks | [Paper](https://arxiv.org/abs/2603.03907) | [GitHub](https://yzc-ippl.github.io/FG-IAA/) |
+
+## ✨ 色温美学评估
+| Year | Conf/Journal | Paper Title | Paper | Code |
+|------|--------------|-------------|-------|------|
+| 2026 | AAAI | Thinking Aesthetics Assessment of Image Color Temperature | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37319) | [GitHub](https://github.com/chasecjg/ICTA2Net) |
 
 ## 📚 常用数据集 & 综述
 | Year | Conf/Journal | Paper Title | Paper | Code |
