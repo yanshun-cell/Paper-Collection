@@ -20,6 +20,7 @@
 | 2023 | TCSVT | Theme-Aware Visual Attribute Reasoning for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10054147) | [GitHub](https://github.com/yipoh/TAVAR) |
 | 2023 | ICME | Attribute-assisted Multimodal Network for Image Aesthetics Assessment | [Paper](https://ieeexplore.ieee.org/document/10220007) | [无] |
 | 2025 | ACM MM | CoFiVLA Synergistic coarse-fine vision-language alignment for image aesthetic assessment | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755089) | [GitHub](https://github.com/lifushengchn/CoFiVLA) |
+| 2025 | ICME | Mixture-of-Modality-Experts for Unified Image Aesthetic Assessment with Multi-Level Adaptation | [Paper](https://ieeexplore.ieee.org/document/11209888) | [GitHub](https://github.com/AiArt-Gao/AesFormer) |
 
 ## 💡 提示学习 Prompt 美学评估
 | Year | Conf/Journal | Paper Title | Paper | Code |
@@ -59,6 +60,7 @@
 |------|--------------|-------------|-------|------|
 | 2026 | AAAI | Thinking Aesthetics Assessment of Image Color Temperature | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37319) | [GitHub](https://github.com/chasecjg/ICTA2Net) |
 
-## 📚 常用数据集 & 综述
+## 📚 PIAA
 | Year | Conf/Journal | Paper Title | Paper | Code |
 |------|--------------|-------------|-------|------|
+| 2025 | CVPR | Rethinking Personalized Aesthetics Assessment:Employing Physique Aesthetics Assessment as An Exemplification | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhong_Rethinking_Personalized_Aesthetics_Assessment_Employing_Physique_Aesthetics_Assessment_as_An_CVPR_2025_paper.pdf) | [GitHub](https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment) |
