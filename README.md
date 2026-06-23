@@ -36,6 +36,7 @@
 | 2026 | AAAI | Fine-grained image quality assessment for perceptual image restoration | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37846) | [GitHub](https://sxfly99.github.io/FGResQ-Home/) |
 | 2026 | IEEE TMM | Learning Artistic Image Aesthetics from Multi-level Text Prompts Generation | [Paper](https://ieeexplore.ieee.org/abstract/document/11523634) | [GitHub](https://github.com/cicixuxy/MTPG) |
 | 2025 | IEEE TIP | AI-generated image quality assessment based on task-specific prompt and multi-granularity similarity | [Paper](https://ieeexplore.ieee.org/abstract/document/11291162) | [无]|
+| 2026 | CVPR | Probabilistic Prompt Adaptation for Unified Image Aesthetics and Quality Assessment | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Hara_Probabilistic_Prompt_Adaptation_for_Unified_Image_Aesthetics_and_Quality_Assessment_CVPR_2026_paper.pdf) | [无]|
 
 ## 🌟 长尾分布问题
 | Year | Conf/Journal | Paper Title | Paper | Code |
